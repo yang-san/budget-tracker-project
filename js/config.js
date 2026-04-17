@@ -15,10 +15,10 @@
  */
 const CONFIG = {
   // ✏️ 請填入您的 Google OAuth 2.0 用戶端 ID
-  CLIENT_ID: '530578850177-0tjl1cg7a8tmhbe468fkft1331fded92.apps.googleusercontent.com',
+  CLIENT_ID: '',
 
   // ✏️ 請填入您的 Google 試算表 ID（網址列 /d/ 後面那段）
-  SPREADSHEET_ID: '1r4z9xOiePH46as-JJBYm6R5Lkog1eK4xnLxvGyryitg',
+  SPREADSHEET_ID: '',
 
   // Google Sheets API 所需的授權範圍（不須修改）
   SCOPES: 'https://www.googleapis.com/auth/spreadsheets openid profile email',
