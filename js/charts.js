@@ -94,8 +94,8 @@ function renderMonthlyChart(data) {
         {
           label:           '收入',
           data:            incomes,
-          backgroundColor: 'rgba(52, 168, 83, 0.75)',
-          borderColor:     '#34a853',
+          backgroundColor: 'rgb(104, 135, 243)',
+          borderColor:     '#6887f3',
           borderWidth:     1,
           borderRadius:    4,
         },
